@@ -1,0 +1,7 @@
+.footer {
+    display: grid;
+    grid-template-columns: repeat(3, max-content );
+    bottom: 0;
+    height: 120px;
+    background-color: grey;
+}

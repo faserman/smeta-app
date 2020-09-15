@@ -1,0 +1,17 @@
+.sort-tab {
+    height: 64px;
+    width: 400px;
+    background-color: khaki;
+    text-align: center;
+
+    transition: background-color .2s linear;
+}
+
+.sort-tab:hover {
+    background-color: burlywood;
+}
+
+.work-type-name-txt {
+    font-size: 48;
+    color: black;
+}
